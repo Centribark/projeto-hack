@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+
+div{
+    width: 40%;
+    height: 10%;
+    background-color: whitesmoke;
+    position: absolute;
+    box-shadow: black 1px 1px 1px;
+    border-radius: 8px;
+}
+
+.btn-home{
+    margin: 12px 0px 0px 13px;
+}
+
+.search-bar{
+    padding-top: 16px;
+    padding-right: 197px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    margin-left: 1px;
+    border-radius: 10px;
+    border: none;
+    font-family: cursive;
+    font-style: unset;
+    outline: 0;
+    overflow: hidden;
+
+}
